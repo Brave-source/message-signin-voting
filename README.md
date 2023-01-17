@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-### This app is still a WIP
+### This app is still being updated
 This dApp will allow an authorized wallet to create polls and all holders of a particular policyId to vote on polls with weight based on the amount they hold. It uses message signing to authenticate and validate the votes.
 ## Getting Started
 This project uses Next.js with typescript and tailwindcss. It comes with DaisyUI for making an easy interface and includes easy-peasy for easy state/context management.
