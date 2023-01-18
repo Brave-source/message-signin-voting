@@ -1,5 +1,3 @@
-
-
 import Link from 'next/link';
 import { useState, useEffect } from 'react'
 // table where the customer can see his active subscriptions
